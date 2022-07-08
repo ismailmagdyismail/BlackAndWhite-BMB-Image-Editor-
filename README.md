@@ -1,5 +1,5 @@
 # BlackAndWhite-BMB-Image-Editor-
- a program that manipulates colored and black and white bitmap images of size 256x256 
+ a program that manipulates black and white bitmap images of size 256x256 
  Filter Available:
   1-Black & White Filter
   2-Invert Filter
